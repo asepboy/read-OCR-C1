@@ -28,7 +28,7 @@ $ source activate c1reader
 Once all requirements are installed, clone this repository.
 
 ```
-(c1reader) $ git clone https://github.com/rzwck/c1-form-reader.git
+(c1reader) $ git clone https://github.com/asepboy/read-OCR-C1.git
 (c1reader) $ cd c1-form-reader
 ```
 
